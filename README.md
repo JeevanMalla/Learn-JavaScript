@@ -1,7 +1,7 @@
 
-# Learn-JavaScript
+# Learning-JavaScript
      
-### DAY-1
+###INTRODUCTION :
 JavaScript is a high-level, dynamic, and interpreted programming language that is widely used for building interactive web applications. It is one of the core technologies of the World Wide Web, and is supported by all modern web browsers.
 
 There are many reasons to learn JavaScript, including:
