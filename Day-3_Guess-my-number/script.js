@@ -34,7 +34,8 @@ document.querySelector(".check").addEventListener("click", function () {
       score--;
       document.querySelector(".score").textContent = score;
     } else {
-      document.querySelector(".message").textContent = "You Lost The Game!!!";
+      document.querySelector(".message").textContent =
+        "You Lost The Game!!! TRY AGAIN";
     }
 
     //WHEN THE GUESS IS LOW
